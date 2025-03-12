@@ -1,1 +1,2 @@
-This is a Sample file.
+This is a Sample file which is modified in branch1.
+This is bad code!
