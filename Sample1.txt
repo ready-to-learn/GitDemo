@@ -1,1 +1,1 @@
-This is a Sample file which is modified in branch2 again.
+This is a Sample file which is modified in branch1.
